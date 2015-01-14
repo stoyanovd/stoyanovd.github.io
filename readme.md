@@ -18,3 +18,5 @@
 | 14.01 | Git Submodules | http://git-scm.com/book/en/v2/Git-Tools-Submodules |
 | | Bitbucket hooks POST requests | |
 | | Bash readings... | |
+| | Bash readings... | |
+| | Bash readings... | |
