@@ -15,3 +15,4 @@
 | | и о Квайнах | http://goo.gl/jNMCI0|
 | | Каковы пределы интеллекта, как искусственного, так и человека? | http://www.niisi.ru/iont/ni/Journal/V7/N1/Novikov.pdf |
 | 13.01 | Аттестат за пуговицу с собакой, или Что происходит с ЕГЭ по математике | http://www.fontanka.ru/2014/10/28/181/ |
+| 14.01 | Git Submodules | http://git-scm.com/book/en/v2/Git-Tools-Submodules |
