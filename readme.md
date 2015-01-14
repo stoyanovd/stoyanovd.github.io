@@ -19,7 +19,3 @@
 | | Bitbucket hooks POST requests | |
 | | Bash readings... | |
 | | Bash readings... | |
-| | Bash readings... | |
-| | Bash readings... | |
-| | Bash readings... | |
-| | Bash readings... | |
