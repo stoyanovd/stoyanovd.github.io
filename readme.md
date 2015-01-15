@@ -18,4 +18,4 @@
 | 14.01 | Git Submodules | http://git-scm.com/book/en/v2/Git-Tools-Submodules |
 | | Bitbucket hooks POST requests | |
 | | Bash readings... | |
-| | Bash readings... | |
+| 15.01 | Условное математическое распределение | http://goo.gl/elO75v |
