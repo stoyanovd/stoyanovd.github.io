@@ -1,2 +1,5 @@
 # temp files
 *~
+
+# update scripts
+*.sh
