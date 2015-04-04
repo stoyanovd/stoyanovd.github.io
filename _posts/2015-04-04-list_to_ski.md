@@ -2,6 +2,7 @@
 layout: page
 title: ListToSki
 permalink: /list_to_ski/
+published: true
 ---
 
 Еда
