@@ -12,7 +12,25 @@ vk_username: stoyanovd
 markdown: kramdown
 
 
+
 # not all will be run on GitHub Pages
 gems:
-  # emoticons
+
+# emoticons
   - jemoji
+  
+  
+# @mentions link the mention to the user's GitHub profile. However, they don't notify the user.
+  - jekyll-mentions
+  
+  
+#  ---
+#  redirect_from: "/foo"
+#  ---
+  - jekyll-redirect-from
+
+
+# Make sitemap for Google and another
+# GitHub: https://help.github.com/articles/sitemaps-for-github-pages/
+# Google https://support.google.com/webmasters/answer/156184?hl=en
+  - jekyll-sitemap

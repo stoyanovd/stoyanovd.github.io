@@ -6,3 +6,7 @@
 
 # jetbrains
 **.idea/
+
+
+# for the time being
+**_site/
