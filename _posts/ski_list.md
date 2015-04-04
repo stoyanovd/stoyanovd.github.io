@@ -1,3 +1,10 @@
+---
+layout: post
+title: SkiList
+permalink: /ski_list/
+---
+
+
 Основное.
 ==========
 
