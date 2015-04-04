@@ -2,6 +2,6 @@
 
 Website with my few notes.
 Is generated with jekyll.
-And hosting with GitHub Pages :blash:
+And hosting with GitHub Pages :blush:
 
 Go to use it with Prose.io...
