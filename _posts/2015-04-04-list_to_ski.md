@@ -1,5 +1,7 @@
 ---
-published: true
+layout: page
+title: ListToSki
+permalink: /list_to_ski/
 ---
 
 Еда
