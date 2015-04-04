@@ -1,7 +1,8 @@
 ---
 layout: page
-title: SkiList
+title: Вещи с собой для горнолыжного курорта
 permalink: /ski_list/
+published: true
 ---
 
 
