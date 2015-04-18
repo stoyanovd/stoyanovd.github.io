@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Viborg holidays
@@ -34,4 +34,4 @@ published: false
 9. Света
 10. Влад
 11. Оля
-12. 
+12.
