@@ -10,8 +10,6 @@ vk_username: stoyanovd
 
 # Build settings
 markdown: kramdown
-sass:
-	sass_dir: _sass
 
 
 

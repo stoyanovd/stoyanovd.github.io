@@ -1,5 +1,6 @@
 # temp files
 *~
+**.sass-cache/
 
 # update scripts
 *.sh
@@ -10,3 +11,5 @@
 
 # for the time being
 **_site/
+
+
