@@ -1,5 +1,6 @@
 ---
-published: false
+layout: page
+published: true
 ---
 
 
