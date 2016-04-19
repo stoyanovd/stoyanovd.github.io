@@ -4,6 +4,9 @@ table {
   @extend .table-bordered;
 }
 
-.quoted {
-   font-size: 50%;
+li {
+  ul {
+    margin-top: 5px;
+  }
 }
+
