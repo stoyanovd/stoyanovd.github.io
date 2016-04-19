@@ -9,7 +9,9 @@ github_username:  stoyanovd
 vk_username: stoyanovd
 
 # Build settings
-# markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 
 
