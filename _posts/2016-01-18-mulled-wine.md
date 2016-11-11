@@ -66,6 +66,7 @@ title: Глинтвейн
 
 То, что я обычно беру
 ---------------------
+
 <img src="http://davidlansing.com/wp-content/uploads/2012/04/Spain-Don-Simon.jpg" alt="Don Simon Tinto" style="width: 50px;"/>
 Обратите внимание, **Tinto** - это красное!
 
