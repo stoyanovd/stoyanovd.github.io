@@ -63,3 +63,15 @@ title: Глинтвейн
 Но обычно мёд все компенсирует.
 
 На [википедии](https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BD%D1%82%D0%B2%D0%B5%D0%B9%D0%BD) неплохо написано.
+
+То, что я обычно беру
+---------------------
+<img src="http://davidlansing.com/wp-content/uploads/2012/04/Spain-Don-Simon.jpg" alt="Don Simon Tinto" style="width: 50px;"/>
+Обратите внимание, Tinto - это красное!
+
+<img src="http://www.goodsmatrix.ru/BigImages/4740018135597.jpg" alt="Don Simon Tinto" style="width: 50px;"/>
+Цельные специи - это хорошо.
+
+
+
+
