@@ -67,10 +67,10 @@ title: Глинтвейн
 То, что я обычно беру
 ---------------------
 
-<img src="http://davidlansing.com/wp-content/uploads/2012/04/Spain-Don-Simon.jpg" alt="Don Simon Tinto" style="width: 50px;"/>
+<img src="http://davidlansing.com/wp-content/uploads/2012/04/Spain-Don-Simon.jpg" alt="Don Simon Tinto" style="width: 90px;"/>
 Обратите внимание, **Tinto** - это красное!
 
-<img src="http://www.goodsmatrix.ru/BigImages/4740018135597.jpg" alt="Специи" style="width: 70px;"/>
+<img src="http://www.goodsmatrix.ru/BigImages/4740018135597.jpg" alt="Специи" style="width: 100px;"/>
 Цельные специи - это хорошо.
 
 
