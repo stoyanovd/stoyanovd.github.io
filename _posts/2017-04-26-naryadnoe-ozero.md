@@ -2,6 +2,7 @@
 published: true
 layout: page
 permalink: /naryadnoe_ozero/
+title: Озеро Нарядное
 ---
 Привет!
 
