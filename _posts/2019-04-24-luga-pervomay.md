@@ -2,6 +2,7 @@
 published: true
 layout: page
 permalink: /luga_pervomay/
+title: Первомай под Лугой
 ---
 Привет!
 
