@@ -1,5 +1,7 @@
 ---
 published: false
+layout: page
+permalink: /list_of_lists
 ---
 # Общий Список вопросов на поездку - Кемпинг
 
