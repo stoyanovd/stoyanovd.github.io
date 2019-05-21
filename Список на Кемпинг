@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 permalink: /camping_list_of_lists/
 ---
